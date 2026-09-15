@@ -119,14 +119,22 @@ Customer_churn_analytics/
 
 ## 📊 Dashboard Preview
 
+The Power BI dashboard consists of four interactive pages covering executive insights, customer risk, churn drivers, and retention strategy.
+
 ### Executive Churn Overview
-![Executive Overview](C:\Customer_churn_analytics\Executive_churn_overview.png)
+
+![Executive Churn Overview](Executive_churn_overview.png)
 
 ### Customer Risk & Revenue
-C:\Customer_churn_analytics\Customer_Risk & Revenue.png
+
+![Customer Risk & Revenue](Customer_Risk%20%26%20Revenue.png)
 
 ### Churn Drivers
-![Churn Drivers](C:\Customer_churn_analytics\Churn_drivers.png)
+
+![Churn Drivers](Churn_drivers.png)
 
 ### Retention Strategy
-![Retention Strategy](C:\Customer_churn_analytics\Retention_strategy.png)
+
+![Retention Strategy](Retention_strategy.png)
+
+
