@@ -95,46 +95,38 @@ Recommended interventions include:
 - Pricing/plan reviews
 - Targeted engagement campaigns
 
-## 📈 Power BI Dashboard
-
-The dashboard contains four pages:
-
-1. Executive Churn Overview
-2. Customer Risk & Revenue
-3. Churn Drivers
-4. Retention Strategy
-
 ## 📂 Project Structure
 
 ```text
 Customer_churn_analytics/
-├── Python scripts
+├── 01_data_understanding.py
+├── 02_data_preprocessing.py
+├── 03_feature_engineering.py
+├── 04_model_training.py
 ├── customer_churn_final.csv
-├── Customer_Churn_Analytics.pbix
-├── README.md
+├── Churn_drivers.png
+├── Customer_Risk & Revenue.png
+├── Executive_churn_overview.png
+├── Retention_strategy.png
+├── Readme.md
 └── .gitignore
-
-
----
 
 ## 📊 Dashboard Preview
 
-The Power BI dashboard consists of four interactive pages covering executive insights, customer risk, churn drivers, and retention strategy.
+Here are the four pages of the Power BI dashboard.
 
-### Executive Churn Overview
+### 1. Executive Churn Overview
 
-![Executive Churn Overview](Executive_churn_overview.png)
+![Executive Churn Overview](https://github.com/Preethii-2910/customer_churn_analytics/blob/main/Executive_churn_overview.png)
 
-### Customer Risk & Revenue
+### 2. Customer Risk & Revenue
 
-![Customer Risk & Revenue](Customer_Risk%20%26%20Revenue.png)
+![Customer Risk & Revenue](https://github.com/Preethii-2910/customer_churn_analytics/blob/main/Customer_Risk%20%26%20Revenue.png)
 
-### Churn Drivers
+### 3. Churn Drivers
 
-![Churn Drivers](Churn_drivers.png)
+![Churn Drivers](https://github.com/Preethii-2910/customer_churn_analytics/blob/main/Executive_churn_overview.png)
 
-### Retention Strategy
+### 4. Retention Strategy
 
-![Retention Strategy](Retention_strategy.png)
-
-
+![Retention Strategy](https://github.com/Preethii-2910/customer_churn_analytics/blob/main/Retention_strategy.png)
