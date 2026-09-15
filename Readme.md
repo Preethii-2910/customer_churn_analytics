@@ -111,22 +111,27 @@ Customer_churn_analytics/
 ├── Readme.md
 └── .gitignore
 
+```
+
+## Dashboard Preview
+
+---
+
 ## 📊 Dashboard Preview
 
-Here are the four pages of the Power BI dashboard.
+### Executive Churn Overview
 
-### 1. Executive Churn Overview
+![Executive Churn Overview](https://raw.githubusercontent.com/Preethii-2910/customer_churn_analytics/main/Executive_churn_overview.png)
 
-![Executive Churn Overview](https://github.com/Preethii-2910/customer_churn_analytics/blob/main/Executive_churn_overview.png)
+### Customer Risk & Revenue
 
-### 2. Customer Risk & Revenue
+![Customer Risk & Revenue](https://raw.githubusercontent.com/Preethii-2910/customer_churn_analytics/main/Customer_Risk%20%26%20Revenue.png)
 
-![Customer Risk & Revenue](https://github.com/Preethii-2910/customer_churn_analytics/blob/main/Customer_Risk%20%26%20Revenue.png)
+### Churn Drivers
 
-### 3. Churn Drivers
+![Churn Drivers](https://raw.githubusercontent.com/Preethii-2910/customer_churn_analytics/main/Churn_drivers.png)
 
-![Churn Drivers](https://github.com/Preethii-2910/customer_churn_analytics/blob/main/Executive_churn_overview.png)
+### Retention Strategy
 
-### 4. Retention Strategy
+![Retention Strategy](https://raw.githubusercontent.com/Preethii-2910/customer_churn_analytics/main/Retention_strategy.png)
 
-![Retention Strategy](https://github.com/Preethii-2910/customer_churn_analytics/blob/main/Retention_strategy.png)
